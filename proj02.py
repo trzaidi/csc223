@@ -1,6 +1,6 @@
 # Step 1: Input the cipher text directly
 def get_cipher_text():
-    # Replace this with the cipher text you want to decrypt
+    # Using cipher text that says "I cannot wait to leave NVCC"
     cipher_text = "L FDQQRW ZDLW WR OHDYH QYFF"
     return cipher_text.replace(" ", "")  # Remove spaces for analysis
 
