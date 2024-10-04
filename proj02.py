@@ -1,7 +1,7 @@
 # Step 1: Input the cipher text directly
 def get_cipher_text():
     # Replace this with the cipher text you want to decrypt
-    cipher_text = "WKH TXLFN EURZQ IRA MXPSV RYHU WKH ODCB GRJ"
+    cipher_text = "L FDQQRW ZDLW WR OHDYH QYFF"
     return cipher_text.replace(" ", "")  # Remove spaces for analysis
 
 # Step 2: Count the occurrences of each letter
